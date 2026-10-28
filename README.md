@@ -2,8 +2,6 @@
 
 Second-year Computer Science student at Cardiff Metropolitan University. I like knowing how things work underneath, from the board to the browser.
 
-**Looking for:** a summer 2027 internship in software development, hardware development or computer security.
-
 ---
 
 ## What I'm working on
